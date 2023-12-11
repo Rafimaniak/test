@@ -1,0 +1,35 @@
+[33mcommit 4e6dd7bf624479af468f477051590dd78f49840b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Rafal Burbelo <rb131412@stud.ur.edu.pl>
+Date:   Mon Dec 11 09:14:54 2023 +0100
+
+    ciuchcia
+
+[33mcommit 20506796bd33c24490fb9636b03673a437f8dc03[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Rafal Burbelo <rb131412@stud.ur.edu.pl>
+Date:   Mon Dec 11 09:12:29 2023 +0100
+
+    ignorowanie .docx
+
+[33mcommit 3e0518bf63a499f29f43fd6920cee3ae2d2a1703[m
+Author: Rafal Burbelo <rb131412@stud.ur.edu.pl>
+Date:   Mon Dec 11 09:11:35 2023 +0100
+
+    testowy plik
+
+[33mcommit 7dc4282ad321e097d0d7108fd918d933d8a38c97[m
+Author: Rafal Burbelo <rb131412@stud.ur.edu.pl>
+Date:   Mon Dec 11 09:00:55 2023 +0100
+
+    ignorowanie.docx
+
+[33mcommit e4fed8778a7b73d525c0085bae0953417127f794[m
+Author: Rafal Burbelo <rb131412@stud.ur.edu.pl>
+Date:   Mon Dec 11 08:55:49 2023 +0100
+
+    ciuchcia
+
+[33mcommit e17f723b7abd89e085b7625372ac9788856cc7a3[m
+Author: Rafal Burbelo <rb131412@stud.ur.edu.pl>
+Date:   Mon Dec 11 08:40:08 2023 +0100
+
+    dodanie pliku plik.txt
